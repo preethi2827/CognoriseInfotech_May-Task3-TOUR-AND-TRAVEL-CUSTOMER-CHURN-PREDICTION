@@ -95,12 +95,12 @@ Contributions are welcome! If you have any improvements or suggestions, please c
 
 ## Contact
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+For any questions or feedback regarding this project, feel free to reach out to me via:
+
+LinkedIn: linkedin.com/in/preethid28 GitHub: github.com/preethi2827
 
 ## Acknowledgements
 
 Special thanks to the contributors and the community for their support and the open datasets available for practice.
 
----
 
-Feel free to customize this README according to your specific project details and results.
